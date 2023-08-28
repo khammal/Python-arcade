@@ -6,7 +6,7 @@ This game was made with Python.
 
 ## Demo
 
-<img src="pong_game_demo.gif" width="600" height="400"/>
+<img src="assets/pong_game_demo.gif" width="600" height="400"/>
 
 ## How to Play
 
